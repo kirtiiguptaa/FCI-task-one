@@ -441,7 +441,7 @@ p {
     }
     .list {
         margin-top: unset;
-        bottom: 50px;
+        bottom: 100px;
         position: absolute;
     }
     .list li {

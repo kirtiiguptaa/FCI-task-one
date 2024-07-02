@@ -429,14 +429,15 @@ p {
     }
     .main-left {
         width: 100%;
+        margin-top: 50px;
     }
     h1 {
         font-size: 32px;
     }
     p {
         font-size: 15px;
-        margin: 14px 0;
-        padding: 0 10px;
+        margin: 16px 0;
+        padding: 0 12px;
     }
     .list {
         margin-top: unset;

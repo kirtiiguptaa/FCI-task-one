@@ -415,6 +415,9 @@ p {
 }
 
 @media (max-width: 399px) {
+    body {
+        height: 100vh;
+    }
     nav {
         padding: 12px 20px;
     }
@@ -437,7 +440,7 @@ p {
     }
     .list {
         margin-top: unset;
-        bottom: 35px;
+        bottom: 50px;
         position: absolute;
     }
     .list li {

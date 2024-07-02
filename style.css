@@ -391,7 +391,6 @@ p {
     .dropdown-menu.first, .dropdown-menu.second {
         min-width: 100%;
         left: 0;
-        padding-left: 40px;
     }
     .dropdown-menu li {
         display: block;

@@ -436,7 +436,9 @@ p {
         padding: 0 10px;
     }
     .list {
-        margin-top: 35px;
+        margin-top: unset;
+        bottom: 35px;
+        position: absolute;
     }
     .list li {
         margin: 0 8px;

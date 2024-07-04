@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
         dropdown.addEventListener("click", function (e) {
             e.stopPropagation();
             const isActive = this.classList.contains("active");
-            closeAllDropdowns(); // Close all dropdowns before toggling the clicked one
+            closeAllDropdowns();
             if (!isActive) {
                 this.classList.add("active");
             }
